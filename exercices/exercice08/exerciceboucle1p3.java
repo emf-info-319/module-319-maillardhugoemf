@@ -5,7 +5,7 @@ public class exerciceboucle1p3 {
         int nombre = 0;
         while (nombre <= 5) {
             nombre++;
-            if (nombre >= 4) {
+            if (nombre >= 4) {// si plus grand ouo égale a quatre ne rien 
             } else {
                 System.out.println("Boucle while itération" + nombre);
             }

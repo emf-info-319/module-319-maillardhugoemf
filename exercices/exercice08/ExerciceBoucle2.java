@@ -8,17 +8,17 @@ public class ExerciceBoucle2 {
         }
         System.out.println("décollage!!!");
         // boolean condition = true;
-        int nombre = 1;
+        int nombre = 5;
         System.out.println("Boucle while,");
-        while (nombre <= 5) {
+        while (nombre >= 5) {
             System.out.println("" + nombre);
-            nombre++;
+            nombre--;
         }
         System.out.println("décollage!!!");
-        int nombre2 = 0;
+        int nombre2 = 5;
         System.out.println("Boucle do-while, itération" );
         do {
-            nombre2++;
+            nombre2--;
             System.out.println("" + nombre2);
         } // le nombre2++ = a nombre + 1 jusqu'a nombre2= 5
         while (nombre2 < 5);
