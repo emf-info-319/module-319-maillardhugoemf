@@ -24,7 +24,7 @@ public class devoir2 {
                 System.out.println("remplissage : " + remplissage);
             }
         }
-        System.out.println("reservoirA a " + reservoirA + " litre et le reservoirB a " + reservoirB
-                + " litre. le remplissage est a " + remplissage + "litre");
+            System.out.println("reservoirA a " + reservoirA + " litre et le reservoirB a " + reservoirB
+                 + " litre. le remplissage est a " + remplissage + " litre");
     }
 }
