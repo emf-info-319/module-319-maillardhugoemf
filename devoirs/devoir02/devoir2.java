@@ -15,16 +15,17 @@ public class devoir2 {
             System.out.println("reservoirA : " + reservoirA);
             System.out.println("remplissage : " + remplissage);
         }
-        while (reservoirB < 5) {
-            if (remplissage == 0) {
-            } else {
+        while (remplissage > 0 ) {
+            
                 reservoirB++;
                 remplissage--;
                 System.out.println("reservoirB : " + reservoirB);
                 System.out.println("remplissage : " + remplissage);
             }
-        }
             System.out.println("reservoirA a " + reservoirA + " litre et le reservoirB a " + reservoirB
-                 + " litre. le remplissage est a " + remplissage + " litre");
+            + " litre. le remplissage est a " + remplissage + " litre");
+        }
+            
+            
     }
-}
+
