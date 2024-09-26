@@ -2,7 +2,7 @@ package exercices.exercice09;
 
 public class exercice09p3 {
     public final static int MAX = 6;
-    public final static int MIN = 1;
+    public final static int MIN = 1; // CONSTANTE
 
     public static void main(String[] args) {
         int[] monTableau = new int[10];
