@@ -1,3 +1,4 @@
+package test;
 public class maillardE00 {
 
     public final static int NOMBRE_PTS_VICTOIR = 3;

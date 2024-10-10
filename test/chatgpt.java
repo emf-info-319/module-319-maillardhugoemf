@@ -1,3 +1,4 @@
+package test;
 public class chatgpt {
     public class SumArrays {
         public static void main(String[] args) {

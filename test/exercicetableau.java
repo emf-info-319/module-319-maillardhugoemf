@@ -1,3 +1,4 @@
+package test;
 public class exercicetableau {
     public static void main(String[] args) {
         int[] tab1;
