@@ -19,21 +19,34 @@ public class teste01 {
         int equipe4 = (int) (Math.random() * (4 - 1)) + 0;
         if (equipe1 < equipe2) {
 <<<<<<< HEAD:test/teste01.java
+<<<<<<< HEAD:test/teste01.java
             System.out.println(" equipe 1 est éliminer " + equipe1 + " a " + equipe2);
         }
         if (equipe2 < equipe1) {
             System.out.println("equipe2 est eliminer " + equipe1 + " a " + equipe2);
 =======
+<<<<<<< HEAD
+            System.out.println(" equipe 1 est éliminer " + equipe1 + "a" + equipe2);
+        }
+        if (equipe2 < equipe1) {
+            System.out.println("equipe2 est eliminer " + equipe1 + "a" + equipe2);
+>>>>>>> bd32a873d8aed936899d433cd21e8fd7e61a1d42:teste01.java
+=======
             System.out.println(" equipe 1 est éliminer " + equipe1 + "-" + equipe2);
         }
         if (equipe2 < equipe1) {
             System.out.println("equipe2 est eliminer " + equipe1 + "-" + equipe2);
+<<<<<<< HEAD:test/teste01.java
 >>>>>>> 093b7af13295740475058c5eb54fb65ace54a685:teste01.java
+=======
+>>>>>>> 093b7af13295740475058c5eb54fb65ace54a685
+>>>>>>> bd32a873d8aed936899d433cd21e8fd7e61a1d42:teste01.java
         }
         else if (equipe2 == equipe1 ) {
         equipe1 = (int) (Math.random() * (5 - 1)) + 0;
         equipe2 = (int) (Math.random() * (5 - 1)) + 0;
         if (equipe1 < equipe2) {
+<<<<<<< HEAD:test/teste01.java
 <<<<<<< HEAD:test/teste01.java
             System.out.println(" equipe 1 est éliminer " + equipe1 + " a  " + equipe2);
         }
@@ -43,6 +56,16 @@ public class teste01 {
         else
         {System.out.println("l'equipe 2 est éliminer " + equipe1 + " a " + equipe2);}
 =======
+<<<<<<< HEAD
+            System.out.println(" equipe 1 est éliminer " + equipe1 + "a" + equipe2);
+        }
+        if (equipe1 < equipe2) {
+            System.out.println(" equipe 1 est éliminer " + equipe1 + "a" + equipe2);
+        }
+        else
+        {System.out.println("l'equipe 2 est éliminer " + equipe1 + "a" + equipe2);}
+>>>>>>> bd32a873d8aed936899d433cd21e8fd7e61a1d42:teste01.java
+=======
             System.out.println(" equipe 1 est éliminer " + equipe1 + "-" + equipe2);
         }
         if (equipe1 < equipe2) {
@@ -50,7 +73,11 @@ public class teste01 {
         }
         else
         {System.out.println("l'equipe 2 est éliminer " + equipe1 + "-" + equipe2);}
+<<<<<<< HEAD:test/teste01.java
 >>>>>>> 093b7af13295740475058c5eb54fb65ace54a685:teste01.java
+=======
+>>>>>>> 093b7af13295740475058c5eb54fb65ace54a685
+>>>>>>> bd32a873d8aed936899d433cd21e8fd7e61a1d42:teste01.java
     }
 
     
