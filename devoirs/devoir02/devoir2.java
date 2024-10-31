@@ -34,4 +34,3 @@ public class devoir2 {
                     + " litre. le remplissage est a " + remplissage + " litre");
         }
     }
-}
