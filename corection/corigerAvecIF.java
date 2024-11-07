@@ -1,4 +1,5 @@
 package corection;
+
 public class corigerAvecIF {
     public final static int NOTE_MAX = 6;
     public final static int NOTE_MIN = 1;

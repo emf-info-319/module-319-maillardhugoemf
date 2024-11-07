@@ -9,7 +9,7 @@ public class evalcoriger02 {
         int totalNote = 0;
         for (int i = 0; i < notesObtenues.length; i++) {
             notesObtenues[i] = (int) (Math.random() * (NOTE_MAX + NOTE_MIN - 1)) + 1;
-            System.out.print("la note est " + notesObtenues[i]);
+            System.out.println("la note est " + notesObtenues[i]);
             switch (notesObtenues[i]) {
                 case 4:
                     System.out.println(" : sufisant");
@@ -30,7 +30,7 @@ public class evalcoriger02 {
         for (int i = 0; i < notesObtenues.length; i++) {
             totalNote = totalNote + notesObtenues[i];
         }
-        double moyenne = totalNote / NBRE_NOTES;
+        int moyenne = totalNote / NBRE_NOTES;
         System.out.println("la moyenne est de : " + moyenne);
         if (moyenne < 4) {
             System.out.println("l'eleve est non promu");
