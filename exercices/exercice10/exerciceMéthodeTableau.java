@@ -3,7 +3,7 @@ package exercices.exercice10;
 public class exerciceMéthodeTableau {
     public static void main(String[] args) {
         
-        int[] tab = creertab(0)
+        int[] tab = creertab(0);
    
     }
    
