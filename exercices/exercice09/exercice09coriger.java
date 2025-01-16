@@ -9,9 +9,11 @@ public class exercice09coriger {
         }
         String[] tableau2; 
         tableau2 = new String[5];
-        for (int nombreDeCellule = 0 <nombre
-            
+        for (int nombreDeCellule = 0 <nombre;nbbnombreDeCellule++);{
+
         }
             
         }
-    }
+            
+        }
+    
